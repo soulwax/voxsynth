@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxsynth logo"/>
+</p>
+
 # voxsynth
 
 Procedural chiptune and sound effect synthesizer in pure Dart, inspired by sfxr.
